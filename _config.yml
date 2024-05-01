@@ -9,7 +9,7 @@ name: Ming Dai & Yunlei Lu
 description: The final project of Reinforcement Learning and Decision Making
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: '/images/blackjack_logo.jpeg'
+avatar: /images/blackjack_logo.jpeg
 
 #
 # Flags below are optional
