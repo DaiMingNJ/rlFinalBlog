@@ -26,19 +26,6 @@
             <p class="site-description">{{ site.description }}</p>
           </div> -->
 
-          <article class="post">
-
-            <div class="entry">
-              {{ content }}
-            </div>
-          
-            <div class="date">
-              Written on {{ page.date | date: "%B %e, %Y" }}
-            </div>
-          
-            {% include disqus.html %}
-          </article>
-
           <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
             <!-- <a href="{{ site.baseurl }}/about">About</a> -->
